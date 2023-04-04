@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Authors](README.md)
+* [👋 Create User Manual with AI](README.md)
+* [ใช้ GitBook ช่วยทำเอกสารให้อยู่ในรูปแบบอิเล็คทรอนิกส์ใช้งานแบบออนไลน์](gitbook.md)
+* [Authors](AUTHORS.md)
 * [Release notes](CHANGES.md)
 * [README](<README (1).md>)
 * [.github](.github/README.md)
