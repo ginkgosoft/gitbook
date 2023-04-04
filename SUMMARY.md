@@ -2,7 +2,7 @@
 
 * [Authors](README.md)
 * [Release notes](CHANGES.md)
-* [README](<README (1).md>)
+* [README](README.md)
 * [.github](.github/README.md)
   * [ISSUE\_TEMPLATE](.github/ISSUE\_TEMPLATE.md)
 * [GitBook Toolchain Documentation](docs/README.md)
