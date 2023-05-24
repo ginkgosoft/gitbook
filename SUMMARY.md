@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Create User Manual with AI](README.md)
+* [☯ ใช้ AI ทำคู่มือ](README.md)
 * [ใช้ GitBook ช่วยทำเอกสาร](gitbook.md)
 * [GitBook Toolchain Documentation](docs/README.md)
   * [Summary](docs/SUMMARY.md)
