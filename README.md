@@ -9,32 +9,14 @@ coverY: 0
 # 👋 Create User Manual with AI
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+**ทำไมเราต้องมาเสียเวลาทำเรื่องนี้ :** ถ้าใครสังเกตุดีๆ ช่วงนี้มีเทคโนโลยีที่เกิดขึ้นมาใหม่ๆ มากมายนั่นเพราะว่าการเติบโตของจำนวนผู้ใช้และความเร็วของ internet และ mobile device ที่สูงขึ้นทำให้นักพัฒนาต่างเร่งสร้างสินค้าและบริการเพื่อออกมารองรับกับการเติบโต แม้กระทั่งการใช้งานเอกสารเอง ที่มี Format ที่เกิดขึ้นมาใหม่ๆ อย่างต่อเนื่อง แล้วถ้าเราจะมี Format เป็นของเราเองละ ?&#x20;
 {% endhint %}
 
 For **new team members**, สำหรับคนที่ยังใหม่กับการใช้งาน gitbook หรือ chatGPT สามารถทำความเข้าใจได้จากเอกสารนี้ ซึ่งจะรวบรวมเทคนิคที่จำเป็นต้องใช้ในการทำให้การแปลภาษาไทยเป็นภาษาอังกฤษเพื่อให้ภาษามีความสละสลวยขึ้น.
 
 **Recommend accountability:** สมาชิกในทีมสามารถแก้ไขเอกสารร่วมกันได้พร้อมกันซึ่งจะทำให้การสร้างคู่มือการใช้งานหรือเอกสารอื่นๆที่มีวัตถุประสงค์คล้ายๆ กันได้
 
-| Contents                    | Accountability | Note |
-| --------------------------- | :------------: | :--: |
-| Welcome to Product          |  Product Owner | Done |
-| What we do                  |     C-Level    | Done |
-| Our Features                |    Marketing   |      |
-| Product Guides              |  Product Owner |      |
-| Fundamentals                |  Product Owner |      |
-| Getting Start               |      Scrum     |      |
-| Document Management         |      Scrum     |      |
-| Electronic Signature        |      Scrum     |      |
-| Search                      |      Scrum     |      |
-| Delivering Content          |      Scrum     |      |
-| Advanced Features           |      Scrum     |      |
-| Troubleshooting and Support |   App Support  |      |
-| **USE Cases**               |                |      |
-|    For Designers            |       TBC      |      |
-|    For Business             |   Sale & MKT   |      |
-|    For Developers           |      R & D     |      |
-| Product Tips                |     Presale    |      |
+<table><thead><tr><th width="274.3333333333333">Contents</th><th width="237" align="center">Accountability</th><th align="center">Note</th></tr></thead><tbody><tr><td>Welcome to Product</td><td align="center">Product Owner</td><td align="center">Done</td></tr><tr><td>What we do</td><td align="center">C-Level</td><td align="center">Done</td></tr><tr><td>Our Features</td><td align="center">Marketing</td><td align="center"></td></tr><tr><td>Product Guides</td><td align="center">Product Owner</td><td align="center"></td></tr><tr><td>Fundamentals</td><td align="center">Product Owner</td><td align="center"></td></tr><tr><td>Getting Start</td><td align="center">Scrum</td><td align="center"></td></tr><tr><td>Document Management</td><td align="center">Scrum</td><td align="center"></td></tr><tr><td>Electronic Signature</td><td align="center">Scrum</td><td align="center"></td></tr><tr><td>Search</td><td align="center">Scrum</td><td align="center"></td></tr><tr><td>Delivering Content</td><td align="center">Scrum</td><td align="center"></td></tr><tr><td>Advanced Features</td><td align="center">Scrum</td><td align="center"></td></tr><tr><td>Troubleshooting and Support</td><td align="center">App Support</td><td align="center"></td></tr><tr><td><strong>USE Cases</strong></td><td align="center"></td><td align="center"></td></tr><tr><td>   For Designers</td><td align="center">TBC</td><td align="center"></td></tr><tr><td>   For Business</td><td align="center">Sale &#x26; MKT</td><td align="center"></td></tr><tr><td>   For Developers</td><td align="center">R &#x26; D</td><td align="center"></td></tr><tr><td>Product Tips</td><td align="center">Presale</td><td align="center"></td></tr></tbody></table>
 
 <details>
 
@@ -54,7 +36,7 @@ For **new team members**, สำหรับคนที่ยังใหม่
 
 <summary>การใช้ chatGPT ช่วยสร้างข้อความ</summary>
 
-การใช้ chatGPT ช่วยเขียนคู่มือการใช้งานเราจะต้องสร้างข้อความคำสั่งเป็นภาษอังกฤษที่ต้องชัดเจน กระชับ เช่น ให้เขียนอะไร เขียนให้ใครอ่านโดยอธิบายให้ชัดเจนถึงวัตถุประสงค์ที่คุณอยากได้ เช่น explain to customer what we do in software development to make our zDOX platform to reach our company vision that said "We believe people can work and live without paper."
+การใช้ chatGPT ช่วยเขียนคู่มือการใช้งานเราจะต้องสร้างข้อความคำสั่งเป็นภาษอังกฤษที่ต้องชัดเจน กระชับ เช่น ให้เขียนอะไร เขียนให้ใครอ่านโดยอธิบายให้ชัดเจนถึงวัตถุประสงค์ที่คุณอยากได้ เช่น explain to customer what we do in software development to make our zDOX platform to reach our company vision that said "We believe people can work and live without paper." ก็จะได้ผลลัพธ์แบบที่แสดงใน VDO.
 
 </details>
 
@@ -62,6 +44,10 @@ For **new team members**, สำหรับคนที่ยังใหม่
 
 {% embed url="https://youtu.be/X3xRY-O4SeI" %}
 Write "what we do" content with AL
+{% endembed %}
+
+{% embed url="https://youtu.be/JwS5DK5MkZw" %}
+ChatGPT
 {% endembed %}
 
 <details>
@@ -79,6 +65,18 @@ Write "what we do" content with AL
 สามารถอ่านรายละเอียดการใช้งาน gitbook เพิ่มเติมจาก [page gitbook](./#gitbook) ได้โดยตรงโดน Click ที่ [Link.](./#gitbook)
 
 </details>
+
+{% embed url="https://youtu.be/NfVtV73jK-M" %}
+การใช้งาน gitbook EP1
+{% endembed %}
+
+{% embed url="https://youtu.be/jXm3fAvN2eg" %}
+การใช้งาน gitbook EP2
+{% endembed %}
+
+{% embed url="https://youtu.be/Yx5oEHU2rUU" %}
+การใช้งาน gitbook EP3
+{% endembed %}
 
 <details>
 
