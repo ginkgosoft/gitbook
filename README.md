@@ -88,6 +88,8 @@ ChatGPT
 การใช้งาน gitbook EP3
 {% endembed %}
 
+{% embed url="https://www.youtube.com/watch?t=735s&v=yfbKXqRAgOA" %}
+
 <details>
 
 <summary>การทำงานร่วมกัน (Collaboration)</summary>
